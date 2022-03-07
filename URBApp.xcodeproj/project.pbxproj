@@ -51,9 +51,6 @@
 		9C748F0727C6620400EF5D1B /* URBAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = URBAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9C748F0B27C6620400EF5D1B /* URBAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = URBAppUITests.swift; sourceTree = "<group>"; };
 		9C748F0D27C6620400EF5D1B /* URBAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = URBAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
-		9CA40F9B27D5D14B00C6D4CC /* India DEC-2021.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = "India DEC-2021.pdf"; path = "/Users/ChetanPatil/Desktop/SwiftDevelopmentProject/URBApp/URBApp/India DEC-2021.pdf"; sourceTree = "<absolute>"; };
-		9CA40F9C27D5D15100C6D4CC /* India FEB-2022.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = "India FEB-2022.pdf"; path = "/Users/ChetanPatil/Desktop/SwiftDevelopmentProject/URBApp/URBApp/India FEB-2022.pdf"; sourceTree = "<absolute>"; };
-		9CA40F9D27D5D15300C6D4CC /* India JAN-2022.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = "India JAN-2022.pdf"; path = "/Users/ChetanPatil/Desktop/SwiftDevelopmentProject/URBApp/URBApp/India JAN-2022.pdf"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,9 +108,6 @@
 				9C748EF327C6620400EF5D1B /* Assets.xcassets */,
 				9C748EF527C6620400EF5D1B /* LaunchScreen.storyboard */,
 				9C748EF827C6620400EF5D1B /* Info.plist */,
-				9CA40F9B27D5D14B00C6D4CC /* India DEC-2021.pdf */,
-				9CA40F9C27D5D15100C6D4CC /* India FEB-2022.pdf */,
-				9CA40F9D27D5D15300C6D4CC /* India JAN-2022.pdf */,
 				9C748EF027C6620300EF5D1B /* URBApp.xcdatamodeld */,
 			);
 			path = URBApp;
